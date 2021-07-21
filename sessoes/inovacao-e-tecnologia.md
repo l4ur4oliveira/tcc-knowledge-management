@@ -1,6 +1,6 @@
 # Tecnologia e Inovação
 
-[Anterior: Gestão do Conhecimento](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/gestao-do-conhecimento.) | [Próximo: Meetups](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/meetups.md)
+[Anterior: Gestão do Conhecimento](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/gestao-do-conhecimento.) | [Próximo: Meetups](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/meetups.md)
 
 Esse ambiente altamente competitivo e de mudanças constantes que presenciamos hoje, exige cada vez mais precisão no processo de tomada de decisão, com informações adequadas e personalizadas para cada estratégia. Almeida et al. (2016) observa que organizações focadas em uma cultura de inovação estão sempre atentas quanto ao desenvolvimento de seus talentos, mantendo sua geração de conhecimento constantemente ativa. O conhecimento que obtemos ao longo da carreira profissional é rapidamente desatualizado com a crescente velocidade das mudanças sociais, econômicas e tecnológicas que ocorrem no mundo. O autor ressalta que esse cenário dinâmico acelera a necessidade das empresas por inovação constante. Com isso, “novos produtos são criados em poucos meses, tendo como consequência conceitos e tecnologias antigas, que ficam obsoletos em curto prazo” (ALMEIDA et al., 2016, p. 53).
 

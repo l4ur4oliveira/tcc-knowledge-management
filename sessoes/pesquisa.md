@@ -1,6 +1,6 @@
 # Pesquisa e análise de dados
 
-[Anterior: Bootcamps](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/bootcamps.md) | [Próximo: Conclusões](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/conclusao.md)
+[Anterior: Bootcamps](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/bootcamps.md) | [Próximo: Conclusões](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/conclusao.md)
 
 ## Análise de dados
 

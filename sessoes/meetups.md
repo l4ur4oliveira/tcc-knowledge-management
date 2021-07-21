@@ -1,6 +1,6 @@
 # Meetups
 
-[Anterior: Tecnologia e Inovação](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/inovacao-e-tecnologia.md) | [Próximo: Hackathons](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/hackathons.md)
+[Anterior: Tecnologia e Inovação](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/inovacao-e-tecnologia.md) | [Próximo: Hackathons](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/hackathons.md)
 
 Pesquisas realizadas com desenvolvedores de software mostram que a área de tecnologia vem evoluindo muito no que diz respeito à socialização como forma de atualização dos conhecimentos profissionais. Como Sharma et al. (2019) ressalta, esses profissionais tiram cada vez mais proveito de ferramentas como fóruns de perguntas e respostas, sites especializados em codificação, lista de e-mails, microblogs, etc. Essas comunidades de tecnologia encontraram no meetup um grande aliado para gerar engajamento e aumentar cada vez mais o grupo de pessoas em torno de discussões técnicas e metodológicas da área. Conforme citado pela Algar Telecom (2021), “acredita-se que aproximadamente metade dos meetups realizados a nível global tenham caráter exclusivo de abordagem tecnológica”.
 

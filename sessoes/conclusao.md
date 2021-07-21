@@ -1,6 +1,6 @@
 # Conclusões
 
-[Anterior: Pesquisa e análise de dados](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/pesquisa.md) | [Próximo: Referências](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/referencias.md)
+[Anterior: Pesquisa e análise de dados](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/pesquisa.md) | [Próximo: Referências](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/referencias.md)
 
 Ao término da pesquisa foi possível compreender que os métodos de aprendizado estudados contribuem de forma significativa para a aquisição de novos conhecimentos. Para a Gestão do Conhecimento, essa é uma etapa importante visto que é a partir de novos aprendizados que organizações conseguem inovar, tanto no ambiente externo, oferecendo novos produtos e serviços, quanto no ambiente interno, eu seu processo produtivo e métodos de trabalho. A capacidade de compartilhamento da informação adquirida também se mostrou presente. Por se tratarem de eventos sociais, esses métodos já trazem essa competência consigo e deixam claro que o conhecimento é fluido e deve se valer de mais pessoas para crescer e evoluir com novas ideias e vivências.
 

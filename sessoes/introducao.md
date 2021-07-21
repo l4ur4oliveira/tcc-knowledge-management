@@ -1,6 +1,6 @@
 # Introdução
 
-[Próximo: Gestão do Conhecimento](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/gestao-do-conhecimento.)
+[Próximo: Gestão do Conhecimento](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/gestao-do-conhecimento.)
 
 O conhecimento presente nas organizações ganha cada vez mais relevância com o passar dos anos e se transforma em item fundamental àquelas que sabem fazer sua gestão e o transformar em valoroso diferencial competitivo. Para as áreas de tecnologia o desafio aumenta seu nível a cada segundo frente à velocidade no surgimento de novas ferramentas, linguagens de programação e o aumento exponencial da capacidade computacional.
 

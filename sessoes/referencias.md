@@ -1,6 +1,6 @@
 # Referências
 
-[Anterior: Conclusões](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/conclusao.md)
+[Anterior: Conclusões](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/conclusao.md)
 
 <br>
 

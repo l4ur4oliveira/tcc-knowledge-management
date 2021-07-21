@@ -1,6 +1,6 @@
 # Hackathons
 
-[Anterior: Meetups](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/meetups.md) | [Próximo: Bootcamps](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/bootcamps.md)
+[Anterior: Meetups](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/meetups.md) | [Próximo: Bootcamps](https://github.com/l4ur4oliveira/tcc-knowledge-management/blob/main/sessoes/bootcamps.md)
 
 O termo hackathon surgiu em junho de 1999 para denominar um novo tipo de evento organizado pela OpenBSD, que tinha por finalidade solucionar alguns dos problemas de seu sistema operacional. Durante uma semana, alguns desenvolvedores de diversas partes do mundo se reuniram em uma casa e criaram algumas das principais integrações do sistema. Desde então, a fundação promove encontros semelhantes em diferentes cidades com o intuito de desenvolver software e solucionar problemas relativos à ferramenta. De acordo com a OpenBSD (2021), o que se espera em seus hackathons é que os participantes trabalhem imersivamente nos projetos que desejam e utilizam o espaço compartilhado para expor e validar suas ideias, não dependendo de palestras ou programações específicas.
 
