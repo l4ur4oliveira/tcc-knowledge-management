@@ -17,9 +17,9 @@ A área de desenvolvimento de software sofre impacto direto da velocidade do sur
 - [Introdução](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/introducao.md)
 - [Gestão do Conhecimento](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/gestao-do-conhecimento.md)
 - [Tecnologia e Inovação](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/inovacao-e-tecnologia.md)
-- Meetups
-- Hackathons
-- Bootcamps
-- Pesquisa e análise de dados
-- Conclusões
+- [Meetups](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/meetups.md)
+- [Hackathons](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/hackathons.md)
+- [Bootcamps](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/bootcamps.md)
+- [Pesquisa e análise de dados](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/pesquisa.md)
+- [Conclusões](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/conclusao.md)
 - [Referências](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/referencias.md)
