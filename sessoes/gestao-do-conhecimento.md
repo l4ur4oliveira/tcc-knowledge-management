@@ -1,5 +1,7 @@
 # Gestão do Conhecimento
 
+[Anterior: Introdução](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/introducao.md) | [Próximo: Tecnologia e Inovação](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/inovacao-e-tecnologia.md)
+
 Partindo do princípio de que no século XXI a informação se consolidou como o principal patrimônio de uma organização, podemos concordar com Almeida et al. (2016) a respeito de que a gestão do conhecimento se tornou a principal ferramenta para a manipulação desse bem tão valioso. É através de informações que são tomadas decisões estratégicas referentes aos projetos, produtos e serviços de uma empresa. Portanto, saber como armazenar e gerenciar essas informações é fundamental para o processo de inovação e, consequentemente, para o sucesso organizacional.
 
 Não é possível falarmos de informação e conhecimento em uma empresa sem falarmos das pessoas que o possuem. O conhecimento é adquirido, processado e difundido através dos profissionais que constituem as organizações. Por esse motivo é cada vez mais exigido que esses profissionais estejam em um constante processo de aprendizagem, adquirindo novos saberes e compartilhando com seus pares profissionais. Às empresas cabe o papel de facilitadoras, estando constante e ativamente interessadas em desenvolver seus colaboradores (NASCIMENTO, 2006).

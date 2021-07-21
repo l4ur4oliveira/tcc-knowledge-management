@@ -1,5 +1,7 @@
 # Bootcamps
 
+[Anterior: Hackathons](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/hackathons.md) | [Próximo: Pesquisa e análise de dados](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/pesquisa.md)
+
 De plataformas de e-learning com uma infinidade de cursos até as interações pessoais com entusiastas da tecnologia e desenvolvimento de software em meetups e hackathons, encontramos uma grande variedade de opções para os mais diversos estilos de aprendizagem. De acordo com Sey e Garrido (2016), os coding bootcamps (bootcamps voltados à codificação e programação de software) são a mais nova tendência de ensino na área de tecnologia. Surgido nos Estados Unidos em 2011, tem por objetivo suprir duas tendências observadas atualmente: a crescente demanda por profissionais de desenvolvimento de software e a deficitária evolução dos currículos de cursos formais de tecnologia, incapazes de formar profissionais com as habilidades exigidas pelo mercado de trabalho.
 
 Embora os graduados universitários possam iniciar suas carreiras com um conhecimento mais amplo das habilidades técnicas necessárias, Wilson (2018) afirma que existem habilidades não técnicas valorizadas pelos empregadores que são mais facilmente adquiridas com os bootcamps. Além de focar nas questões técnicas, os bootcamps visam observar se os participantes podem trabalhar de forma independente, agir profissionalmente e seguir instruções complexas com competência e criatividade.

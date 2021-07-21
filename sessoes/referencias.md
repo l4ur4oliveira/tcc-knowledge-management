@@ -1,5 +1,9 @@
 # Referências
 
+[Anterior: Conclusões](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/conclusao.md)
+
+<br>
+
 [ALGAR TELECOM](https://blog.algartelecom.com.br/gestao/como-os-meetups-podem-beneficiar-times-de-tecnologia/). Como os meetups podem beneficiar times de tecnologia..
 
 [ALMEIDA, Alivinio. et al](https://www.fastcompany.com/3030628/why-do-big-companies-do-hackathons?show_rev_content). Inovação e gestão do conhecimento. Rio de Janeiro. Editora FGV, 2016.

@@ -1,5 +1,7 @@
 # Pesquisa e análise de dados
 
+[Anterior: Bootcamps](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/bootcamps.md) | [Próximo: Conclusões](https://github.com/l4ur4oliveira/tcc-knowledge-management/tree/main/sessoes/conclusao.md)
+
 ## Análise de dados
 
 Para a elaboração deste projeto foi realizada uma pesquisa que contou com a participação de 24 profissionais de uma empresa de tecnologia de Porto Alegre, no Rio Grande do Sul. O nome da empresa será preservado por questões de autorização e privacidade. A seguir, a análise dos dados será apresentada na seguinte segmentação: perfil dos respondentes (questões de 1 a 3 do Apêndice A) e atendimento do problema de pesquisa (questões de 4 a 16 do Apêndice A).
